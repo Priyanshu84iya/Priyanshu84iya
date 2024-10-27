@@ -4,7 +4,7 @@
 </em></p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://priyanshu84iya.github.io/portfolio/)
-[![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hoosier_daaaddy/)
+[![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pry_uchiha/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Priyans20311071)
 [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu84iya)
 
