@@ -19,6 +19,17 @@
 - 📺 I enjoy watching anime and K-dramas in my free time.
 - 🎮 I love playing video games, especially RPGs and strategy games.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu84iya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu84iya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Priyanshu84iya/Priyanshu84iya/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
