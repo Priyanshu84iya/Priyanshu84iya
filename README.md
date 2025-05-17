@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student from India that has recently embarked on my coding journey. Coding is rlly fun and I love to code. I learned coding from my teacher, Pawan Pookie🎀 and GitHub Copilot <3
 
 <p align="center">
-  <img src="banner1_rounded.png" width="100%" style="border-radius:50%;" />
+  <img src="Bnr.png" width="100%" style="border-radius:50%;" />
 </p>
 
 ---
