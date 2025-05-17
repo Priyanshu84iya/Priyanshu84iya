@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a student from India that has recently embarke
 
 *Stats:*
 - Anime Fan ✅
-- K-Drama Lover ✅
 - Gamer (RPG & Strategy) ✅
 - Hiker of 3 Mountains ✅
 
