@@ -102,7 +102,7 @@
 - **Level up coding skills**
 - **Build cool stuff**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-4e7b6c07-6c07-4be6-8ced-f589c2e09ca5.gif" width="50" alt="Mission">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="50" alt="Mission">
 
 </td>
 </tr>
