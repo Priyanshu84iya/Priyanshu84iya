@@ -19,7 +19,7 @@
 *I'm a student from India that has recently embarked on my coding journey. Coding is rlly fun and I love to code.*  
 *I learned coding from my teacher, **Pawan Pookie**🎀 and **GitHub Copilot** <3*
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Coding">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="60" alt="Coding">
 
 </div>
 
@@ -44,7 +44,7 @@
 ### 🎯 Professional Journey
 > 💻 **Full-time Student** | **Part-time Web Warrior** | **Future Tech Ninja**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Student">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Student">
 
 </td>
 <td align="center" width="50%" style="border: none;">
@@ -52,7 +52,7 @@
 ### 🚀 Current Focus
 **Training Arc in Progress...**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Training">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" alt="Training">
 
 </td>
 </tr>
@@ -132,7 +132,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Stats">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="100" alt="Stats">
 
 </div>
 
@@ -199,7 +199,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" alt="Snake Game">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="150" alt="Snake Game">
 
 <!-- Snake Animation -->
 <picture>
@@ -220,7 +220,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="400" alt="Connection">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="60" alt="Wave">
 
 **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** 😊
 
@@ -244,7 +244,7 @@
 
 ### 💭 Philosophy & Inspiration
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Philosophy">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100" alt="Philosophy">
 
 > *"With code like chakra, I build the future one repo at a time."* ⚡
 
