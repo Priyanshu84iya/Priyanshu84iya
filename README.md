@@ -20,7 +20,7 @@
 
 *I'm a student from India who recently started coding — and now I can't stop. Programming is my new superpower.* 🔥
 
-*Special thanks to **Pawan Pookie** 🎀 and **GitHub Copilot** for guiding my journey!* <3
+*Special thanks to **Pawan** 🎀 and **GitHub Copilot** for guiding my journey!* <3
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="60" />
 
